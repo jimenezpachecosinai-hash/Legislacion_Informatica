@@ -12,7 +12,7 @@ Es el organismo encargado de garantizar el derecho de acceso a la información p
 *Organismo en USA:*
 
 --**Office of Government Information Services (OGIS)**:
-Es una oficina que ayuda a resolver conflictos entre las personas y las agencias del gobierno relacionados con solicitudes de **acceso a información pública**, especialmente bajo la Ley de Libertad de Información (**FOIA**).
+Es una oficina que ayuda a resolver conflictos entre las personas y las agencias del gobierno relacionados con solicitudes de acceso a información pública, especialmente bajo la Ley de Libertad de Información (FOIA).
 
 *Organismo en UE:*
 
