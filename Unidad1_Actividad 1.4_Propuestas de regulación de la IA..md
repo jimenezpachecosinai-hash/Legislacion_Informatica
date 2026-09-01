@@ -1,0 +1,1 @@
+![[Propuestas de regulación de la IA 1.png|700]]
