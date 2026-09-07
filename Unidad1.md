@@ -1,8 +1,8 @@
-## Actividad 1.1##
+## ***Actividad 1.1***
 Lo que espero aprender de esta materia es comprender a fondo el marco legal y normativo para el desarrollo y uso de sistemas de Inteligencia Artificial, tanto a nivel nacional como internacional. Asimismo, busco conocer cómo aplicar de manera correcta las normativas de protección de datos personales y los principios de privacidad para salvaguardar los derechos individuales de los usuarios. Como estudiante de Ingeniería en Inteligencia Artificial, es de mi particular interés asumir nuestra responsabilidad ética y social frente a la toma de decisiones automatizada, considerando retos legales emergentes como el sesgo de datos y la discriminación algorítmica. Finalmente, espero aprender a analizar cómo se aplican estas regulaciones en sectores específicos y prepararme para el futuro normativo de la tecnología.
 
 
-## Actividad 1.2##
+## ***Actividad 1.2***
 Investigar que organismo sustituyo al INAI y los organismos similares en Estados Unidos y la Unión Europea.
 
 *Organismo en México:*
@@ -24,7 +24,7 @@ Es una oficina que ayuda a resolver conflictos entre las personas y las agencias
 Es la autoridad independiente encargada de supervisar y proteger los datos personales dentro de las instituciones, órganos y organismos de la Unión Europea. También vigila que cumplan las normas europeas de protección de datos.
 
 
-## Actividad 1.3##
+## ***Actividad 1.3***
 Artículos:
 ==°6: Acceso a la información.==
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público. ***El derecho a la información será garantizado por el Estado.***
@@ -50,11 +50,11 @@ Todas las autoridades tienen la obligación de ***promover, respetar, proteger y
 
 Queda ***prohibida toda discriminación*** motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-## Actividad 1.4
+## ***Actividad 1.4***
 
 ![[Propuestas de regulación de la IA 1.png|639]]
 
-## **Actividad 1.5
+## ***Actividad 1.5***
 7 artículos aprobados:
 
 | 1   | Iniciativa | [**Que adiciona diversas disposiciones a la Ley Federal del Derecho de Autor, en materia de inteligencia artificial.**](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#1)                                                                                                                                                                                                                               | **Ley Secundaria** | Cámara de Diputados | 30/09/2025 | **[Dip. Verónica Martínez García](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#L1)** | PRI | LXVI | **[1.-Diputados -Cultura y Cinematografía.-Para dictamen  <br>  <br>](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#C1)**                                                                                                                                                                                                                                                                    | **[  <br>Publicado en DOF el 14-MAY-2026  <br>  <br>](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#E1)** | **1.-Educación y Cultura  <br>  <br>2.-Lab**     | Derechos de autor |
@@ -91,7 +91,7 @@ Queda ***prohibida toda discriminación*** motivada por origen étnico o naciona
 | 4   | Iniciativa | [**Que reforma la fracción XXXII y adiciona una fracción XXXIII recorriéndose la siguiente para su orden del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de tecnologías emergentes, disruptivas e inteligencia artificial.**](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=e850a9e2f7d652d3d3d109d73c09176c&Reg=6&Origen=BA&Paginas=15#4) | **Reforma Constitucional** | Cámara de Diputados | 30/04/2025 | **[Dip. Gilberto Herrera Ruiz](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=e850a9e2f7d652d3d3d109d73c09176c&Reg=6&Origen=BA&Paginas=15#L4)** | Morena | LXVI | **[1.-Diputados -Puntos Constitucionales .-Para dictamen  <br>  <br>](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=e850a9e2f7d652d3d3d109d73c09176c&Reg=6&Origen=BA&Paginas=15#C4)** | **[  <br>Desechado el 01-OCT-2025  <br>  <br>](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=e850a9e2f7d652d3d3d109d73c09176c&Reg=6&Origen=BA&Paginas=15#E4)** | **1.-Comunicaciones y Transportes  <br>  <br>2.-Poder Legislativo  <br>  <br>3.-Reformas constitucionales** | Responsabilidad de la IA |
 | --- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------ |
 
-## Tarea 1.1
+## ***Tarea 1.1***
 Investigar los artículos propuestos en la cámara de diputados del tema de IA.
 
 | Propuesta                                                               | ¿Qué busca?                                                                                                                                                    | Diputado/Partido                                                                                       | Situación                     |
