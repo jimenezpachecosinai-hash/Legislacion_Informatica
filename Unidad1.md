@@ -56,7 +56,7 @@ Queda ***prohibida toda discriminación*** motivada por origen étnico o naciona
 
 ## ***Actividad 1.4***
 ![[Pasted image 20260907104919.png]]
-## ***Actividad 1.5***
+## ***Tarea 1.1***
 7 artículos aprobados:
 
 | 1   | Iniciativa | [**Que adiciona diversas disposiciones a la Ley Federal del Derecho de Autor, en materia de inteligencia artificial.**](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#1)                                                                                                                                                                                                                               | **Ley Secundaria** | Cámara de Diputados | 30/09/2025 | **[Dip. Verónica Martínez García](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#L1)** | PRI | LXVI | **[1.-Diputados -Cultura y Cinematografía.-Para dictamen  <br>  <br>](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#C1)**                                                                                                                                                                                                                                                                    | **[  <br>Publicado en DOF el 14-MAY-2026  <br>  <br>](https://sil.gobernacion.gob.mx/Busquedas/Avanzada/ResultadosBusquedaAvanzada.php?SID=edf30617bb7cd666a5ea54affc5dc484&Serial=bd16bd4d18624d4b15bca1a1f9a08164&Reg=7&Origen=BA&Paginas=15#E1)** | **1.-Educación y Cultura  <br>  <br>2.-Lab**     | Derechos de autor |
@@ -105,3 +105,7 @@ Investigar los artículos propuestos en la cámara de diputados del tema de IA.
 | **Protección de la intimidad sexual frente a IA**                       | Modificar el Código Penal Federal para atender delitos relacionados con la generación o utilización de contenido mediante IA que afecte la intimidad sexual.   | Margarita Corro Mendoza, MORENA                                                                        | Iniciativa presentada         |
 | **Violencia sexual generada con IA**                                    | Reformar el Código Penal Federal para fortalecer la protección frente a formas de violencia sexual facilitadas por IA.                                         | María Isabel Rodríguez Heredia y diputados del PAN                                                     | Iniciativa presentada         |
 | **Control parental y protección de la intimidad sexual**                | Prevenir y sancionar conductas que vulneren la intimidad sexual mediante programas o plataformas de IA, incluyendo medidas de control parental.                | Carlos Alberto Puente Salas, PVEM                                                                      | Iniciativa presentada         |
+
+## ***Actividad 1.5***
+
+![[Pasted image 20260910103922.png]]
