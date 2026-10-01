@@ -1,4 +1,4 @@
-## Actividad 1.1
+## Actividad 2.1
 ***Acceso***:
 	- Facebook o Instagram: Puedes solicitar conocer los datos que tiene la plataforma de ti, como tu nombre o información en general.
 
@@ -12,7 +12,7 @@
 	- Una aplicación de compras: Puedes oponerte al uso de tus datos para recibir publicidad o promociones, cuando legalmente proceda.
 
 
-## Actividad 1.2
+## Actividad 2.2
 ### 1. Cursos ITPA
 
 - **Link:** [https://cursos-itpa.net/](https://cursos-itpa.net/)
@@ -94,3 +94,56 @@
     
 - **Cumplimiento general:** **Completo.**
 -Cumple al 100% con las normativas para plataformas de e-commerce en México (Profeco e INAI).
+
+## Actividad 2.3
+
+### 1. Sanciones Civiles
+- **Caso 1: Choque por alcance y daño material**
+    - _Sanción:_ El juez civil condena a Carlos a pagar una **indemnización por daños y perjuicios** de $45,000 pesos para cubrir la reparación total del taller mecánico y el costo de un auto sustituto que Sofía tuvo que rentar mientras reparaban el suyo.
+        
+- **Caso 2: Daño por filtración de agua en un edificio**
+    - _Sanción:_ Un juez civil ordena a Roberto pagar la **reparación material** de los daños causados en la propiedad ajena y una compensación económica por el deterioro de los bienes de su vecino.
+        
+- **Caso 3: Incumplimiento de contrato de arrendamiento (Renta)**
+    - _Sanción:_ El juez civil dicta sentencia de **desalojo forzoso** y condena a Andrea al pago de todas las rentas atrasadas, más los intereses legales generados y los gastos del juicio (costas judiciales).
+        
+- **Caso 4: Responsabilidad médica por negligencia en consulta privada**
+    - _Sanción:_ El tribunal civil condena al dentista al pago de una fuerte suma por **daño moral y físico**, cubriendo los gastos de los implantes correctivos con otro especialista.
+
+### 2.Sanciones Penales
+- **Caso 1: Robo con violencia en la vía pública**
+    - _Sanción:_ Tras ser detenido y juzgado, el juez penal le impone una sentencia de **5 años de prisión** en el reclusorio por el delito de robo calificado con violencia, sin derecho a fianza inmediata.
+        
+- **Caso 2: Delito de fraude cibernético o estafa**
+    - _Sanción:_ Al configurarse el delito de **fraude maquinado**, el operador enfrenta un proceso penal que resulta en una condena de **3 años de cárcel** y la obligación de restituir el dinero a las víctimas.
+        
+- **Caso 3: Falsificación de documentos públicos**
+    - _Sanción:_ El área jurídica detecta la falsificación y el responsable es procesado por el delito de **falsificación y uso de documentos falsos**, recibiendo una pena privativa de libertad.
+        
+- **Caso 4: Lesiones culposas por conducir ebrio**
+    - _Sanción:_ Es detenido en flagrancia y condenado penalmente por el delito de **lesiones culposas agravadas**, enfrentando **cárcel** y la suspensión definitiva de su licencia de conducir.
+### 3.Sanciones Administrativas
+- **Caso 1: Multa y clausura de un restaurante por sanidad**
+    - _Sanción:_ La autoridad de salud impone una **multa económica** considerable y coloca sellos de **clausura temporal o definitiva** del establecimiento por poner en riesgo la salud pública.
+        
+- **Caso 2: Infracción y retención de vehículo por alcoholímetro**
+    - _Sanción:_ Los agentes de tránsito le imponen una **multa de tránsito elevada**, remiten el automóvil al depósito vehicular (corralón) y sancionan al conductor con **arresto administrativo inconmutable** de 24 a 36 horas en el "Torito" o centro de retención municipal.
+        
+- **Caso 3: Sanción de Profeco a una tienda por publicidad engañosa**
+    - _Sanción:_ La Procuraduría Federal del Consumidor (Profeco) interviene tras denuncias, realiza una inspección y le impone una **multa millonaria** a la empresa por violar la ley de protección al consumidor.
+        
+- **Caso 4: Multa ambiental por quema clandestina**
+    - _Sanción:_ La Secretaría de Medio Ambiente local realiza una visita de inspección, levanta un acta y aplica una **multa ecológica severa**, ordenando la suspensión inmediata de dicha práctica.
+    
+### 4. Sanciones Contractuales
+- **Caso 1: Cláusula penal por cancelación anticipada de internet**
+    - _Sanción:_ La compañía aplica la cláusula penal establecida en el contrato y le cobra una **penalización económica automática** equivalente a las rentas restantes o al costo de instalación inicial bonificado.
+        
+- **Caso 2: Cobro de intereses moratorios por tarjeta de crédito**
+    - _Sanción:_ El banco aplica la penalización estipulada en el contrato de adhesión: una **comisión por pago tardío** y el cobro de una **tasa de interés moratorio** muy elevada sobre el saldo vencido.
+        
+- **Caso 3: Ejecución de pena convencional en un contrato de proveeduría**
+    - _Sanción:_ Al momento de liquidar la factura, la empresa hace válida la **pena convencional** y le descuenta de forma automática el porcentaje acumulado de la penalización.
+        
+- **Caso 4: Pérdida del depósito en garantía por daños al rentar**        
+    - _Sanción:_ El arrendador hace efectiva la cláusula de retención y **no devuelve el depósito en garantía**, utilizándolo para cubrir los costos de reparación previstos en el acuerdo original.
