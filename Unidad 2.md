@@ -99,13 +99,13 @@
 
 ### 1. Sanciones Civiles
 - **Caso 1: Choque por alcance y daño material**
-    - _Sanción:_ El juez civil condena a Carlos a pagar una indemnización por daños y perjuicios de $45,000 pesos para cubrir la reparación total del taller mecánico y el costo de un auto sustituto que Sofía tuvo que rentar mientras reparaban el suyo.
+    - _Sanción:_ El juez civil condena a X a pagar una indemnización por daños y perjuicios de $45,000 pesos para cubrir la reparación total del taller mecánico y el costo de un auto sustituto que Y tuvo que rentar mientras reparaban el suyo.
         
 - **Caso 2: Daño por filtración de agua en un edificio**
-    - _Sanción:_ Un juez civil ordena a Roberto pagar la reparación material de los daños causados en la propiedad ajena y una compensación económica por el deterioro de los bienes de su vecino.
+    - _Sanción:_ Un juez civil ordena a X pagar la reparación material de los daños causados en la propiedad ajena y una compensación económica por el deterioro de los bienes de su vecino.
         
 - **Caso 3: Incumplimiento de contrato de arrendamiento (Renta)**
-    - _Sanción:_ El juez civil dicta sentencia de desalojo forzoso y condena a Andrea al pago de todas las rentas atrasadas, más los intereses legales generados y los gastos del juicio (costas judiciales).
+    - _Sanción:_ El juez civil dicta sentencia de desalojo forzoso y condena a X al pago de todas las rentas atrasadas, más los intereses legales generados y los gastos del juicio (costas judiciales).
         
 - **Caso 4: Responsabilidad médica por negligencia en consulta privada**
     - _Sanción:_ El tribunal civil condena al dentista al pago de una fuerte suma por daño moral y físico, cubriendo los gastos de los implantes correctivos con otro especialista.
