@@ -115,7 +115,7 @@
     - _Sanción:_ Tras ser detenido y juzgado, el juez penal le impone una sentencia de 5 años de prisión en el reclusorio por el delito de robo calificado con violencia, sin derecho a fianza inmediata.
         
 - **Caso 2: Delito de fraude cibernético o estafa**
-    - _Sanción:_ Al configurarse el delito de fraude maquinado, el operador enfrenta un proceso penal que resulta en una condena de **3 años de cárcel** y la obligación de restituir el dinero a las víctimas.
+    - _Sanción:_ Al configurarse el delito de fraude maquinado, el operador enfrenta un proceso penal que resulta en una condena de 3 años de cárcel y la obligación de restituir el dinero a las víctimas.
         
 - **Caso 3: Falsificación de documentos públicos**
     - _Sanción:_ El área jurídica detecta la falsificación y el responsable es procesado por el delito de falsificación y uso de documentos falsos, recibiendo una pena privativa de libertad.
