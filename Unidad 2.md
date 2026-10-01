@@ -108,11 +108,11 @@
     - _Sanción:_ El juez civil dicta sentencia de desalojo forzoso y condena a Andrea al pago de todas las rentas atrasadas, más los intereses legales generados y los gastos del juicio (costas judiciales).
         
 - **Caso 4: Responsabilidad médica por negligencia en consulta privada**
-    - _Sanción:_ El tribunal civil condena al dentista al pago de una fuerte suma por **daño moral y físico**, cubriendo los gastos de los implantes correctivos con otro especialista.
+    - _Sanción:_ El tribunal civil condena al dentista al pago de una fuerte suma por daño moral y físico, cubriendo los gastos de los implantes correctivos con otro especialista.
 
 ### 2.Sanciones Penales
 - **Caso 1: Robo con violencia en la vía pública**
-    - _Sanción:_ Tras ser detenido y juzgado, el juez penal le impone una sentencia de **5 años de prisión** en el reclusorio por el delito de robo calificado con violencia, sin derecho a fianza inmediata.
+    - _Sanción:_ Tras ser detenido y juzgado, el juez penal le impone una sentencia de 5 años de prisión en el reclusorio por el delito de robo calificado con violencia, sin derecho a fianza inmediata.
         
 - **Caso 2: Delito de fraude cibernético o estafa**
     - _Sanción:_ Al configurarse el delito de fraude maquinado, el operador enfrenta un proceso penal que resulta en una condena de **3 años de cárcel** y la obligación de restituir el dinero a las víctimas.
